@@ -1,5 +1,5 @@
  
- // Time Complexity: O(n) for insertion and printing (due to traversal)
+ // Time Complexity: O(n) 
 // Space Complexity: O(n) 
 // Java program to implement 
 // a Singly Linked List 
