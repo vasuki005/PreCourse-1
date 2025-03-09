@@ -35,7 +35,7 @@ class Stack {
             return-1;
             
         }else{
-            return a[top]--;
+            return a[top]--;//pop out
         }
     } 
   
